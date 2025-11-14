@@ -1,0 +1,7 @@
+![alt text](images/que-1.png) 
+![alt text](images/que-2(A).png) 
+![alt text](images/que-2(B).png) 
+![alt text](images/que-3(A).png) 
+![alt text](images/que-3(B).png) 
+![alt text](images/que-4.png) 
+![alt text](images/que-5.png)
